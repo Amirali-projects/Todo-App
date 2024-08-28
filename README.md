@@ -1,4 +1,4 @@
 # project
-In this project I have made simple todo App.
+ Made by Amir Ali. In this project I have made simple todo App.
 # usage
-I have used html,css, and Javascript.
+I have used HTML,CSS, and JavaScript.
