@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(128, 119, 0);
+}
+.container{
+    height:300px;
+    width:400px;
+    background-color: blue;
+    position: absolute;
+    top:190px;
+    left: 300px;
+}
